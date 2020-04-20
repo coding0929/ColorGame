@@ -1,0 +1,11 @@
+{
+  "name": "color game",
+  "version": "1.0.0",
+  "description": "Build color game to guess right color from RGB color code",
+  "scripts": {
+    "start": "index.html",
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  }
+}
